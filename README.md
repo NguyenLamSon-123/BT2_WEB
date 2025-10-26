@@ -62,7 +62,7 @@
 # <img width="1742" height="997" alt="image" src="https://github.com/user-attachments/assets/8fdc76db-a67c-4670-82e4-ee19caeea4a3" /> <br?
 ## NHẬN XÉT VỀ BÀI LÀM CỦA MÌNH 
 ## 1. Hiểu quá trình cài đặt phần mềm và thư viện
-Bạn đã thực hiện đầy đủ và chính xác các bước:
+Em đã thực hiện đầy đủ và chính xác các bước:
 - Vô hiệu hóa IIS để tránh xung đột cổng với Apache
 - Cài đặt Apache và cấu hình httpd.conf, httpd-vhosts.conf để tạo domain cá nhân hóa (nguyenlamson.com)
 - Sử dụng file hosts để ánh xạ domain về 127.0.0.1 – rất chuyên nghiệp
@@ -78,7 +78,7 @@ Em đã:
 - Test API bằng URL có query string ( http://localhost:1880/nguyenlamson ) – rất thực tế
 ## Kết luận: Em đã hiểu rõ cách dùng Node-RED như một công cụ backend để tạo API RESTful, xử lý logic và kết nối cơ sở dữ liệu.
 ## 3. Hiểu cách front-end tương tác với back-end
-Bạn đã:
+Em đã:
 - Tạo giao diện HTML, CSS, JS đặt đúng thư mục Apache
 - Sử dụng JavaScript để gọi API Node-RED bằng fetch()
 - Hiển thị dữ liệu JSON trả về lên giao diện bằng bảng HTML
