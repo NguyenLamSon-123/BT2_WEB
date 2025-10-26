@@ -57,9 +57,9 @@
 ## - cả 3 file này đặt trong thư mục: `D:\Apache24\fullname`
 # <img width="907" height="851" alt="image" src="https://github.com/user-attachments/assets/ff3e6909-4589-4781-9cfc-9368fa5a94c3" /> <br>
 ## - sự dụng VisuaCode để mở Front-end thông qua sever
-# <img width="1050" height="1025" alt="image" src="https://github.com/user-attachments/assets/d8965f8c-f6e5-4798-87d9-8ad9a467fae8" /> <br>
+# <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/e10421cb-3b16-4506-b0f7-4581283eadad" /> <br>
 ## - gọi API TỪ BE nodered và được kết quả 
-# <img width="1742" height="997" alt="image" src="https://github.com/user-attachments/assets/8fdc76db-a67c-4670-82e4-ee19caeea4a3" /> <br?
+# <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/b982b079-bad0-4236-8124-f538927b2d15" /> <br>
 ## NHẬN XÉT VỀ BÀI LÀM CỦA MÌNH 
 ## 1. Hiểu quá trình cài đặt phần mềm và thư viện
 Em đã thực hiện đầy đủ và chính xác các bước:
